@@ -15,7 +15,7 @@ The training data must follow the rules:
     "phrases":[
         "Hello, how are you doing ?",
         "Hi"
-      ]
+      ],
     "responses":[
         "Hello I'm a intent based bot"
     ]
@@ -24,7 +24,7 @@ The training data must follow the rules:
     "phrases":[
         "Bye",
         "see you later"
-      ]
+      ],
     "responses":[
         "bye bye"
     ]
